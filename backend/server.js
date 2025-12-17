@@ -27,7 +27,7 @@ app.use(helmet()); // Security headers
 app.use(compression()); // Compress responses
 app.use(morgan('combined')); // Logging
 app.use(cors({
-  origin: process.env.FRONTEND_URL || 'http://localhost:3000',
+  origin: process.env.FRONTEND_URL || 'https://vidyasetu-for-rural-areas.vercel.app/login',
   credentials: true
 }));
 app.use(express.json({ limit: '10mb' }));
