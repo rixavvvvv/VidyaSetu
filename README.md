@@ -44,21 +44,24 @@ VidyaSetu/
 
 ## ⚙️ Installation & Setup
 
-1️⃣ Clone the Repository
+1️⃣ Clone the Repository:
 git clone https://github.com/rixavvvvv/VidyaSetu.git
 cd VidyaSetu
 
 
-2️⃣ Install Dependencies
+2️⃣ Install Dependencies:
+
 npm install
 
-3️⃣ Run the Application
+3️⃣ Run the Application:
+
 npm start
 
 The app will run on:
+
 http://localhost:3000
 
-🔮 Future Enhancements
+## 🔮 Installation & Setup Future Enhancements
 
 🔐 User authentication and profiles
 
@@ -70,7 +73,7 @@ http://localhost:3000
 
 🧠 Learning Outcomes
 
-This project helped me:
+## 🔮 This project helped me: 
 
 Build dynamic UI with reusable components
 
@@ -80,7 +83,7 @@ Understand project structuring and deployment
 
 Practice version control with Git & GitHub
 
-👨‍💻 Author
+##👨‍💻 Author
 
 Rishabh
 Final Year CSE Student | Full Stack Developer
